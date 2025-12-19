@@ -1,5 +1,5 @@
 <!-- ================== NEON CYBERPUNK HEADER ================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F6FF,50:7F00FF,100:FF00FF&height=200&section=header&text=Hi%20Ankesh&fontSize=48&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F6FF,50:7F00FF,100:FF00FF&height=200&section=header&text=Hi%20prateek&fontSize=48&fontColor=ffffff&animation=twinkling"/>
 
 <!-- ================== TYPING AI TEXT ================== -->
 <p align="center">
