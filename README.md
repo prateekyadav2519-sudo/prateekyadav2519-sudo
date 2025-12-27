@@ -76,12 +76,7 @@
 
 ## 📊 GitHub AI Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekyadav2519-sudo&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=prateekyadav2519-sudo&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekyadav2519-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="YOUR_IMAGE_URL_HERE" width="900">
 </p>
 
 ---
